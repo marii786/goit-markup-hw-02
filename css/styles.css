@@ -42,7 +42,7 @@ body {
 }
 
 .logo-studio {
-    color: var(--brand-color-cloud);
+    color: var(--brand-color-navy-blue);
     font-size: 18px;
     font-style: "Raleway", sans-serif;
     line-height: 1.17;
@@ -141,6 +141,18 @@ footer {
     line-height: 1.5;
     letter-spacing: 0.32px;
 }
+
+.logo-studio-footer {
+    color: var(--brand-color-cloud);
+    font-size: 18px;
+    font-style: "Raleway", sans-serif;
+    line-height: 1.17;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    font-weight: 800px;
+    font-family: "Raleway", sans-serif;
+}
+
 /* Section 1 from main - index.html */
 
 .section1 {
