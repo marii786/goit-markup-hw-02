@@ -59,7 +59,6 @@ body {
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.02em;
-    text-align: left;
     text-decoration: none;
 
 }
@@ -101,7 +100,6 @@ body {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    text-align: center;
     background-color: var(--brand-color-cloud);
 }
 
@@ -123,7 +121,6 @@ body {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.4px;
-    text-align: center;
     font-style: normal;
     
 }
@@ -134,7 +131,6 @@ body {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;
-    text-align: center;
     font-style: normal;
 }
 
@@ -158,7 +154,6 @@ footer {
 .section1 {
     background-color: #2E2F42;
     color: white;
-    text-align: center;
 }
 /* Section 2 from main - index.html */
 
@@ -173,7 +168,6 @@ footer {
 }
 
 .images-text-index {
-    text-align: center;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -187,7 +181,6 @@ footer {
 .section-titles-index {
     font-size: 36px;
     line-height: 1.11;
-    text-align: center;
     letter-spacing: 0.72px;
     text-transform: capitalize;
     color: var(--brand-color-navy-blue)
