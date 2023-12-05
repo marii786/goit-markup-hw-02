@@ -168,11 +168,17 @@ footer {
     letter-spacing: 0.02em;
 }
 .first-section-button {
-    font-family: Roboto;
+    font-family: var(--header-font-family);
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.04em;
+    background-color: var(--brand-color-iris);
+}
+
+.first-section-button:hover,
+.first-section-button:focus {
+    background-color: var(--brand-color-ocean);
 }
 /* Section 2 from main - index.html */
 
