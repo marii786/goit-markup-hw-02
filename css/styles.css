@@ -20,16 +20,15 @@ body {
     list-style: none;
 }
 
-.link:hover{
-    color: var(--brand-color-ocean);
-}
-
+.link:hover,
 .link:focus {
     color: var(--brand-color-ocean);
 }
 
+
 .address {
     font-style: normal;
+    text-decoration: none;
 }
 
 .logo-web {
