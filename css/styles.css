@@ -214,6 +214,10 @@ footer {
 
 /* Section 4 from main - index.html */
 
-.section4 {
+.fourth-section {
+    background-color: var(--brand-color-cloud);
+}
+
+.fourth-section {
     background-color: #FFFFFFFF;
 }
