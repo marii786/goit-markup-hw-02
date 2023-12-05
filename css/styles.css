@@ -175,7 +175,8 @@ footer {
     line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
-    color: var(--brand-color-navy-blue)
+    color: var(--brand-color-navy-blue);
+    text-align: center;
 }
 
 /* Section 4 from main - index.html */
