@@ -96,9 +96,9 @@ body {
 }
 
 .button-filters:hover,
-.button-filters.focus {
-    background-color: #404BBF;
-    color:#FFFFFF;
+.button-filters:focus {
+    background-color: var(--brand-color-ocean);
+    color:#FFFFFFFF;
     border: none;
 }
 
