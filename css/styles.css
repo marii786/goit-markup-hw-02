@@ -84,14 +84,6 @@ body {
     background-color: #FFFFFFFF;
 }
 
-/* .button-alignment {
-    width: Hug (586px);
-    height: Hug (48px);
-    top: 168px;
-    left: 427px;
-    gap: 24px;
-} */
-
 .button-filters {
     font-family: var(--header-font-family);
     border: none;
