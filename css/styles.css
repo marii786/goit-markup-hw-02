@@ -106,6 +106,9 @@ body {
     cursor: pointer;
 }
 
+.row-one {
+    text-decoration: none;
+}
 
 .row-header {
     color: var(--brand-color-navy-blue);
