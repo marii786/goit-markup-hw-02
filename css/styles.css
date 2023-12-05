@@ -37,9 +37,10 @@ body {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.54px;
-    color: var(--logo-blue-color);
+    color: var(--brand-color-iris);
     font-family: "Raleway", sans-serif;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .logo-studio {
